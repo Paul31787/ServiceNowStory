@@ -1,0 +1,233 @@
+.boxborder {
+display: flex;
+justify-content: space-between;
+}
+
+
+.boxborder > div {
+border: 3px solid #000000;
+border-radius: 10px;
+box-shadow: 0 0 50px #000000;
+margin: auto;
+padding-top: 5px;
+padding-left: 3px;
+padding-right: 3px;
+}
+.coloruser {
+background-color: #84e975;
+}
+
+.topuser {
+text-align: center;
+border: 2px  solid #032d43;
+border-radius: 10px;
+color: #032d43;
+width: 150px;
+margin:auto;
+font-family: fantasy;
+}
+.imageborderuser {
+width: 300px;
+height: 175px;
+border-radius: 10px;
+margin-top: 2%;
+border: 2px solid #032d43;
+}
+
+.italictextuser {
+font-style: italic;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+border: 2px solid #032d43;
+border-radius: 10px;
+color: #032d43;
+padding: 0.5em;
+margin: 0.5em;
+width: 265px;
+height: 85px;
+}
+
+.ulfixuser {
+list-style-type: none;
+border: 2px  solid #032d43;
+border-radius: 10px;
+font-style: italic;
+font-family: Arial, Helvetica, sans-serif;
+color: #032d43;
+padding: 0.5em;
+margin: 0.5em;
+width: 265px;
+height: 85px;
+}
+
+.lifixuser {
+font-weight: bold;
+font-style: italic;
+color: #032d43;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.borderdescribeuser {
+border: 2px  solid #032d43;
+border-radius: 10px;
+font-weight:bold;
+font-style: italic;
+color: #032d43;
+padding: 0.5em;
+margin: 0.5em;
+width: 265px;
+height: 250px;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 21px;
+}
+
+
+.snbackground {
+background-color: #032d43;
+}
+
+
+.topTextMid {
+text-align: center;
+border: 2px  solid #84e975;
+border-radius: 10px;
+color: #84e975;
+font-family: fantasy;
+width: 300px;
+padding: 0.1em;
+margin: auto;
+}
+            
+
+.imagebordersn {
+display:flex;
+justify-content: center;
+width: 300px;
+height: 175px;
+border-radius: 10px;
+margin-top: 2%;
+border: 2px solid #84e975;
+}
+
+
+.snitalictext {
+font-style: italic;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+border: 2px solid #84e975;
+color: #84e975;
+border-radius: 10px;
+padding: 0.5em;
+margin: 0.5em;
+width: 265px;
+height: 75px;
+}
+
+
+.ulfixsn {
+list-style-type: none;
+border: 2px  solid #84e975;
+border-radius: 10px;
+color: #84e975;
+font-style: italic;
+font-family: Arial, Helvetica, sans-serif;
+padding: 0.5em;
+margin: 0.5em;
+width: 265px;
+height: 85px;
+}
+
+.lifixsn {
+font-weight: bold;
+font-style: italic;
+font-family: Arial, Helvetica, sans-serif;
+color: #84e975;
+}
+
+.borderdescribesn {
+border: 2px  solid #84e975;
+font-weight:bold;
+font-style: italic;
+color: #84e975;
+border-radius: 10px;
+padding: 0.5em;
+margin: 0.5em;
+width: 265px;
+height: 250px;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 21px;
+}
+
+
+.colorconsult {
+background-color: #ffffff;
+}
+
+.topText {
+text-align: center;
+border: 2px  solid #032d43;
+border-radius: 10px;
+color: #032d43;
+font-family: fantasy;
+width: 300px;
+padding: 0.1em;
+margin: auto;
+}
+
+
+.imagebordersn2 {
+width: 300px;
+height: 175px;
+border-radius: 10px;
+margin-top: 2%;
+border: 2px solid #032d43;
+}
+
+
+.snitalictext2 {
+font-style: italic;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+border: 2px solid #032d43;
+color: #032d43;
+border-radius: 10px;
+padding: 0.5em;
+margin: 0.5em;
+width: 265px;
+height: 75px;
+}
+
+.ulfixsn2 {
+list-style-type: none;
+border: 2px  solid #032d43;
+border-radius: 10px;
+color: #0a2240;
+font-style: italic;
+font-family: Arial, Helvetica, sans-serif;
+padding: 0.5em;
+margin: 0.5em;
+width: 265px;
+height: 100px;
+}
+
+.lifixsn2 {
+font-weight: bold;
+font-style: italic;
+font-family: Arial, Helvetica, sans-serif;
+color: #032d43;
+}
+
+.borderdescribesn2 {
+border: 2px  solid #032d43;
+font-weight:bold;
+font-style: italic;
+color: #032d43;
+border-radius: 10px;
+padding: 0.5em;
+margin: 0.5em;
+width: 265px;
+height: 250px;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 21px;
+}
